@@ -1,7 +1,5 @@
 ### Olá! Eu sou a Daniela! 👋
 
-- 💻 Atualmente sou estagiária em desenvolvimento front-end na DBC
-- 💻🚀 VemSer10
 - 📚 Estudando JavaScript, TypeScript, React, Oracle e Apex.
 - 😄 Pronouns: ela/dela
 
