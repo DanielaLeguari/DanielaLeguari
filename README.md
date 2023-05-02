@@ -21,7 +21,9 @@ Além disso, sou graduada em Letras-Libras e Pedagogia, fui Professora, Pedagoga
 </div> -->
 <hr/>
 
-<div align="center" style="display: inline_block">### Hard Skills 💻</div>
+<div align="center" style="display: inline_block">
+ 
+ ### Hard Skills 💻
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +37,7 @@ Além disso, sou graduada em Letras-Libras e Pedagogia, fui Professora, Pedagoga
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           
-          
+   </div>       
           
 </div>
 
