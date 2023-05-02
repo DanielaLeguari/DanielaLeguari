@@ -43,7 +43,9 @@ Além disso, sou graduada em Letras-Libras e Pedagogia, fui Professora, Pedagoga
 
 <hr/>
  
- <div align="center" style="display: inline_block"> ### Redes Sociais
+ <div align="center" style="display: inline_block"> 
+ 
+ ### Redes Sociais
   
   <div align="center">
       <a href="https://www.linkedin.com/in/daniela-leguari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
