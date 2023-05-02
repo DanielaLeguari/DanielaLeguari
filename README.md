@@ -11,7 +11,7 @@
 
 Além disso, sou graduada em Letras-Libras e Pedagogia, fui Professora, Pedagoga, Intérprete de Libras, Analista de qualidade e atuei no setor administrativo. Possuo algumas especializações sendo Docência do Ensino Superior- Metodologias Ativas, Pedagogia Empresarial e Educação Especial.
  
- Acesse <a href="https://meu-portfolio-gold-nine.vercel.app/index.html"  target="_blank"  rel="noopener noreferrer">aqui</a> meu portifólio
+ Acesse <a href="https://meu-portfolio-gold-nine.vercel.app/index.html"  target="_blank"  rel="noopener noreferrer">aqui</a> meu portifólio!
  </div>
 
 <!-- <div align="center">
