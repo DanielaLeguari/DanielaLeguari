@@ -1,7 +1,9 @@
 ### Olá! Eu sou a Daniela! 👋
 
-- 📚 Estudando JavaScript, TypeScript, React, Oracle e Apex.
-- 😄 Pronouns: ela/dela
+### Sobre me
+ - Graduanda do segundo ano em Análise e Desenvolvimento de Sistemas.Atualmente, trabalho com uma aplicação real em Oracle/Apex oferecendo suporte, desenvolvendo novas features.
+
+- Além disso, sou graduada em Letras-Libras e Pedagogia, fui Professora, Pedagoga, Intérprete de Libras, Analista de qualidade e atuei no setor administrativo. Possuo algumas especializações sendo Docência do Ensino Superior- Metodologias Ativas, Pedagogia Empresarial e Educação Especial.
 
 <!-- <div align="center">
   <a href="https://github.com/DanielaLeguari">
