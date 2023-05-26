@@ -37,7 +37,8 @@
   <img align="center" alt="Dani-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Dani-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Dani-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-          
+  <img align="center" alt="Dani-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+ <img align="center" alt="Dani-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />      
    </div>       
           
 </div>
