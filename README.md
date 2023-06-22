@@ -7,7 +7,7 @@
  
  ### Sobre mim
  
- Graduanda do segundo ano em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho com uma aplicação real de Oracle/Apex no desenvolvendo de novas features.
+ Graduanda do segundo ano em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho com uma aplicação real de Oracle/Apex no desenvolvimento de novas features.
 
  Sou graduada em Letras-Libras e Pedagogia, trabalhei como Professora, Pedagoga, Intérprete de Libras, Agente de Estágio II e Analista de qualidade júnior. Possuo também algumas especializações sendo em Docência do Ensino Superior- Metodologias Ativas, Pedagogia Empresarial e Educação Especial.
  
