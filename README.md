@@ -7,7 +7,7 @@
  
  ### Sobre mim
  
- Graduanda do segundo ano em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho com uma aplicação real de Oracle/Apex no desenvolvimento de novas features.
+ Analista de Sistemas trabalho em um projeto Oracle/Apex no suporte e desenvolvimento de novas features. Tenho experiência no desenvolvimento de projetos com React com JavaScript e TypeScript, Bootstrap, HTML, CSS.
  
  Acesse <a href="https://meu-portfolio-gold-nine.vercel.app/index.html"  target="_blank"  rel="noopener noreferrer">aqui</a> meu portfólio!
  </div>
